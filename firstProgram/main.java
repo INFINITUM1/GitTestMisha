@@ -5,9 +5,4 @@ public class main  {
         System.out.println ("Hello, World!") ; 
         System.out.println ("Hello, World!_second") ;
     }
-
-    public static void notMain (String[] args) {
-        System.out.println ("Hello, World!") ; 
-        System.out.println ("Hello, World!_third") ;
-    }
 }
